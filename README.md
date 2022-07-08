@@ -21,8 +21,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
-- :telescope: I’m currently building web applications using Javascript, react, redux
+I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
+- :telescope: I’m currently building web applications using JavaScript, React, Redux
 
 - :seedling: Learning through remote pairprogramming.
 
