@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/edith-naisanga-19396856/">
+  <a href="https://www.linkedin.com/in/edith-naisanga">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/edithnaisanga">
@@ -21,14 +21,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
-- :telescope: I’m currently building web applications using JavaScript, React, Redux
+I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
+- :telescope: I build full-stack web applications using React & Redux, Node, Express and MongoDB
 
-- :seedling: Learning through remote pair programming.
+- :seedling:I'm learning new technologies through remote pair programming.
 
 - :zap: In my free time, I watch tech documentaries
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edith-naisanga-19396856/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edith-naisanga)
 
 ---
 
