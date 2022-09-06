@@ -24,7 +24,7 @@
 I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
 - :telescope: I build full-stack web applications using React & Redux, Node, Express and MongoDB
 
-- :seedling:I'm learning new technologies through remote pair programming.
+- :seedling: I'm learning new technologies through remote pair programming.
 
 - :zap: In my free time, I watch tech documentaries
 
