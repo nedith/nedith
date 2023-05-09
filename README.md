@@ -21,12 +21,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
-- :telescope: I build web applications using Javascript.
+I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Africa.
+- :telescope: I build web applications using MERN stack.
 
 - :seedling: I'm learning new technologies through remote pair programming.
 
-- :zap: In my free time, I watch tech documentaries
+- :zap: In my free time, I watch tech documentaries and travel.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edith-naisanga)
 
