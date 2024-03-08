@@ -21,8 +21,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Africa.
-- :telescope: I build web applications using MERN stack.
+I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Africa.
+- :telescope: Passionate about learning new technologies.
 
 - :seedling: I'm learning new technologies through remote pair programming.
 
